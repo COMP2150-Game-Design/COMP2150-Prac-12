@@ -22,4 +22,4 @@ Ultimately, this time is what you make it. At this stage your game should be in 
 What have you learnt from today's playtest? While it'll take you writing up and analysing the data to make any changes, there might already be a few things that have popped out to you that you need to change for next time. Make sure you note these down for discussion with your group later.
 
 ## Next Week
-Next week is the final prac! It will be focused on polishing your game, bug fixes and playtesting in a supported environment.
+Next week is the final prac! It will be focused on polishing your game, bug fixes and playtesting in a supported environment. You should speak to the rest of your team to come up with a plan for who is doing what in the practical next week, especially if you are in different classes.
